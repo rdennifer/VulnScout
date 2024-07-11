@@ -28,3 +28,4 @@ VulnScout es un script en Bash diseñado para analizar y obtener información de
 ![image](https://github.com/user-attachments/assets/371d9160-a8c6-48b6-ba13-7ef7184fae1e)
 
 
+![image](https://github.com/user-attachments/assets/d538aea5-94c7-479a-81a6-ed2c9e7d1ccf)
