@@ -1,4 +1,4 @@
-# VulnScout
+# VulnScout V1.0
 VulnScout es un script en Bash diseñado para analizar y obtener información de URLs archivadas en Wayback Machine y realizar un análisis de vulnerabilidades utilizando Nuclei.
 ## Características
 
@@ -25,3 +25,6 @@ VulnScout es un script en Bash diseñado para analizar y obtener información de
 ## Ejecuta el script:
      ./VulnScout.sh
    
+![image](https://github.com/user-attachments/assets/371d9160-a8c6-48b6-ba13-7ef7184fae1e)
+
+
